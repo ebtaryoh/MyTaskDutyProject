@@ -1,0 +1,19 @@
+.bg-button {
+  background-color: #974fd0;
+}
+.main-color {
+  color: #974fd0;
+}
+.border-colour {
+  border-color: #974fd0;
+}
+
+.label2 {
+  top: -8%;
+  left: 3%;
+}
+.label1,
+.label3 {
+  top: -33px;
+  left: 3%;
+}
